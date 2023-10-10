@@ -1,6 +1,6 @@
 {
-	"versionCode": 4,
-	"versionName": "1.0.4",
+	"versionCode": 5,
+	"versionName": "1.0.5",
 	"outputFile": "apengtv-leanback-java-arm64_v8a.apk",
-	"apkDesc": " 1、新增页面风格显示设置\n 2、优化界面风格显示\n 3、重构历史列表逻辑\n 4、优化搜索UI以及应用更新提示"
+	"apkDesc": " 1、增加首次使用激活\n 2、修复设置bug"
 }
