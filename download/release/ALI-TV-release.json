@@ -1,6 +1,6 @@
 {
-	"versionCode": 3,
-	"versionName": "1.0.20231010_1532",
-	"outputFile": "ALI-TV-1.0.20231010_1532-20231010-153242-release.apk",
-	"apkDesc": " 1、增加更新功能 \n2、增加第一次使用配置默认源"
+	"versionCode": 4,
+	"versionName": "1.0.20231013_0945",
+	"outputFile": "ALI-TV-1.0.20231013_0945-20231013-094507-release.apk",
+	"apkDesc": " 1、更新JS解析引擎"
 }
