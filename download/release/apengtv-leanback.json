@@ -1,6 +1,6 @@
 {
-	"versionCode": 9,
-	"versionName": "1.0.9",
+	"versionCode": 10,
+	"versionName": "1.1.10",
 	"outputFile": "apengtv-leanback-java-arm64_v8a.apk",
-	"apkDesc": " 1、增加首页视频显示模式设置"
+	"apkDesc": " 1、修复已知问题\n 2、优化UI风格显示"
 }
