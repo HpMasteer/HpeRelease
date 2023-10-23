@@ -1,6 +1,6 @@
 {
-	"versionCode": 11,
-	"versionName": "1.1.11",
+	"versionCode": 12,
+	"versionName": "1.1.12",
 	"outputFile": "apengtv-leanback-java-arm64_v8a.apk",
-	"apkDesc": " 1、优化设置代码机构\n 2、优化主页UI风格显示"
+	"apkDesc": " 1、引入lifecycler"
 }
