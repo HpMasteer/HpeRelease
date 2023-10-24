@@ -1,6 +1,6 @@
 {
-	"versionCode": 12,
-	"versionName": "1.1.12",
+	"versionCode": 13,
+	"versionName": "1.1.13",
 	"outputFile": "apengtv-leanback-java-arm64_v8a.apk",
-	"apkDesc": " 1、引入lifecycler"
+	"apkDesc": " 1、修复数据同步问题"
 }
