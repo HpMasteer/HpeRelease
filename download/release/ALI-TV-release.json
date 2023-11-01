@@ -1,6 +1,6 @@
 {
-	"versionCode": 4,
-	"versionName": "1.0.20231013_0945",
-	"outputFile": "ALI-TV-1.0.20231013_0945-20231013-094507-release.apk",
-	"apkDesc": " 1、更新JS解析引擎"
+	"versionCode": 5,
+	"versionName": "1.0.20231101_1635",
+	"outputFile": "ALI-TV-1.0.20231101_1635-20231101-163547-arm64_v8aRelease.apk",
+	"apkDesc": " 1、修复已知问题 "
 }
