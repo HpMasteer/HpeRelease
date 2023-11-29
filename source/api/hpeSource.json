@@ -21,7 +21,7 @@
       "apiPath": "http://肥猫.love"
     },
     {
-      "apiStatus": 1,
+      "apiStatus": 0,
       "apiName": "蜂蜜线路",
       "apiPath": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
     },
