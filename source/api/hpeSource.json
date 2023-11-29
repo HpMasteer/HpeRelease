@@ -1,98 +1,122 @@
 {
   "sourceAPIs": [
     {
+      "apiStatus": 0,
       "apiName": "应用多多家庭版",
       "apiPath": "http://yydsys.top/duo"
     },
     {
+      "apiStatus": 0,
       "apiName": "阿里精品专线",
       "apiPath": "http://yydsys.top/duo/ali"
     },
     {
+      "apiStatus": 1,
       "apiName": "饭太硬线路",
       "apiPath": "http://饭太硬.top/tv"
     },
     {
+      "apiStatus": 0,
       "apiName": "肥猫线路",
       "apiPath": "http://肥猫.love"
     },
     {
+      "apiStatus": 0,
       "apiName": "蜂蜜线路",
       "apiPath": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
     },
     {
+      "apiStatus": 1,
       "apiName": "道长线路",
       "apiPath": "https://pastebin.com/raw/5NHaxyGR"
     },
     {
+      "apiStatus": 1,
       "apiName": "香雅情线路",
       "apiPath": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
     },
     {
+      "apiStatus": 1,
       "apiName": "小米线路",
       "apiPath": "http://xhww.fun:63/小米/DEMO.json"
     },
     {
+      "apiStatus": 1,
       "apiName": "菜妮丝线路",
       "apiPath": "https://tvbox.cainisi.cf"
     },
     {
+      "apiStatus": 1,
       "apiName": "俊佬线路",
       "apiPath": "http://home.jundie.top:81/top98.json"
     },
     {
+      "apiStatus": 1,
       "apiName": "小雅线路",
       "apiPath": "http://101.34.67.237/config/1"
     },
     {
+      "apiStatus": 1,
       "apiName": "霜辉月明线路",
       "apiPath": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"
     },
     {
+      "apiStatus": 1,
       "apiName": "dxawi0线路",
       "apiPath": "https://xhdwc.tk/0"
     },
     {
+      "apiStatus": 1,
       "apiName": "老刘备线路",
       "apiPath": "https://raw.liucn.cc/box/m.json"
     },
     {
+      "apiStatus": 1,
       "apiName": "运输车线路（含跑马灯）",
       "apiPath": "https://weixine.net/ysc.json"
     },
     {
+      "apiStatus": 1,
       "apiName": "潇洒线路",
       "apiPath": "https://la.kstore.space/download/2863/01.txt"
     },
     {
+      "apiStatus": 1,
       "apiName": "蓝风线路",
       "apiPath": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"
     },
     {
+      "apiStatus": 1,
       "apiName": "蚂蚁论坛线路",
       "apiPath": "https://la.kstore.space/download/2883/0110.txt"
     },
     {
+      "apiStatus": 1,
       "apiName": "欧歌线路",
       "apiPath": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2"
     },
     {
+      "apiStatus": 1,
       "apiName": "吾爱线路",
       "apiPath": "http://52bsj.vip:98/wuai"
     },
     {
+      "apiStatus": 1,
       "apiName": "云星日记线路",
       "apiPath": "http://itvbox.cc/tvbox/云星日记/1.m3u8"
     },
     {
+      "apiStatus": 1,
       "apiName": "喵影视线路",
       "apiPath": "http://miaotvs.cn/meow"
     },
     {
+      "apiStatus": 1,
       "apiName": "星辰线路",
       "apiPath": "http://8.210.232.168/xc.json"
     },
     {
+      "apiStatus": 1,
       "apiName": "分享者线路",
       "apiPath": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8"
     }
