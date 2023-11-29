@@ -21,7 +21,7 @@
       "apiPath": "http://肥猫.love"
     },
     {
-      "apiStatus": 0,
+      "apiStatus": 1,
       "apiName": "蜂蜜线路",
       "apiPath": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json"
     },
@@ -31,7 +31,7 @@
       "apiPath": "https://pastebin.com/raw/5NHaxyGR"
     },
     {
-      "apiStatus": 1,
+      "apiStatus": 0,
       "apiName": "香雅情线路",
       "apiPath": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
     },
@@ -51,17 +51,17 @@
       "apiPath": "http://home.jundie.top:81/top98.json"
     },
     {
-      "apiStatus": 1,
+      "apiStatus": 0,
       "apiName": "小雅线路",
       "apiPath": "http://101.34.67.237/config/1"
     },
     {
-      "apiStatus": 1,
+      "apiStatus": 0,
       "apiName": "霜辉月明线路",
       "apiPath": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json"
     },
     {
-      "apiStatus": 1,
+      "apiStatus": 0,
       "apiName": "dxawi0线路",
       "apiPath": "https://xhdwc.tk/0"
     },
@@ -106,7 +106,7 @@
       "apiPath": "http://itvbox.cc/tvbox/云星日记/1.m3u8"
     },
     {
-      "apiStatus": 1,
+      "apiStatus": 0,
       "apiName": "喵影视线路",
       "apiPath": "http://miaotvs.cn/meow"
     },
