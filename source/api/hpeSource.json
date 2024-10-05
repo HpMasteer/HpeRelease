@@ -8,7 +8,8 @@
     {
       "apiStatus": 1,
       "apiName": "主地址源",
-      "apiPath": "http://tvbox.王二小放牛娃.xyz"
+      "apiPath": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json
+"
     },  
     {
       "apiStatus": 1,
