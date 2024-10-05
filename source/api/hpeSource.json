@@ -8,8 +8,7 @@
     {
       "apiStatus": 1,
       "apiName": "主地址源",
-      "apiPath": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json
-"
+      "apiPath": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json"
     },  
     {
       "apiStatus": 1,
