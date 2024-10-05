@@ -6,6 +6,11 @@
       "apiPath": "http://yydsys.top/duo"
     },
     {
+      "apiStatus": 1,
+      "apiName": "王二小放牛娃",
+      "apiPath": "http://tvbox.王二小放牛娃.xyz"
+    },  
+    {
       "apiStatus": 0,
       "apiName": "阿里精品专线",
       "apiPath": "http://yydsys.top/duo/ali"
